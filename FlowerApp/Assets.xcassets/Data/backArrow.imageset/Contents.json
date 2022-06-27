@@ -1,0 +1,29 @@
+{
+  "images" : [
+    {
+      "filename" : "arrow-left@1x.png",
+      "idiom" : "iphone",
+      "language-direction" : "left-to-right",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "arrow-left@2x.png",
+      "idiom" : "iphone",
+      "language-direction" : "left-to-right",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "arrow-left@3x.png",
+      "idiom" : "iphone",
+      "language-direction" : "left-to-right",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
